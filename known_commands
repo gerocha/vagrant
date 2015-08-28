@@ -1,0 +1,11 @@
+#subir maquina
+vagrant up
+
+#provisionar maquina
+vagrant provision
+
+#destruir maquina
+vagrant destroy
+
+#desligar maquina
+vagrant halt
